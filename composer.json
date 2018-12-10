@@ -1,7 +1,7 @@
 {
     "name": "aa/package",
     "description": "aaaaaaaa",
-    "type": "library",
+    "type": "phpdocumentor-template",
     "require": {
          "composer/installers": "~1.0"
     },
