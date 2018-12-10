@@ -1,7 +1,7 @@
 {
     "name": "aa/package",
     "description": "aaaaaaaa",
-    "type": "laravel-library",
+    "type": "library",
     "require": {
          "composer/installers": "~1.0"
     },
