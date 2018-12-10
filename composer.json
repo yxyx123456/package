@@ -1,7 +1,7 @@
 {
     "name": "aa/package",
     "description": "aaaaaaaa",
-    "type": "project",
+    "type": "package",
     "require": {
          "composer/installers": "~1.0"
     },
