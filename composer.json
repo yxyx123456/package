@@ -2,9 +2,7 @@
     "name": "aa/package",
     "description": "aaaaaaaa",
     "type": "laravel-library",
-    "require": {
-         "composer/installers": "~1.0"
-    },
+    
     "authors": [
         {
             "name": "yuxiang",
